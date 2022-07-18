@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=0xankit&color=brightgreen)
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/0xankit/0xankit.github.io/master/assets/images/author/0xankit.png" width="200"/>
   <div id="badges">
