@@ -1,3 +1,19 @@
+![](https://komarev.com/ghpvc/?username=0xankit&color=brightgreen)
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/0xankit/0xankit.github.io/master/assets/images/author/0xankit.png" width="200"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/0xankit/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/me_0xankit">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=0xankit&style=flat-square&color=brightgreen" alt=""/>
+  <h1>
+    hey there
+  </h1>
+</div>
 ### Hi there 👋
 
 <!--
